@@ -1,13 +1,14 @@
 /* Definição de cores */
 body {
-    background-color: #f5f5f5;
-    color: #333333;
+    background-color: #e8e8e8;
+    color: #333333;    
   }
   
   /* Definição de fontes */
   h1, h2, h3 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
+    text-align: center;
   }
   
   li {
